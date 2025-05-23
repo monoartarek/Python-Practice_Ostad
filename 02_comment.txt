@@ -1,0 +1,3 @@
+There are two types of comment
+     1)single line --> define: # something
+     2)multi line ---> define: """something"""
