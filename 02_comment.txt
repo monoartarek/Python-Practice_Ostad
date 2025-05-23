@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 There are two types of comment
      1)single line --> define: # something
+=======
+There are two types of comment
+     1)single line --> define: # something
+>>>>>>> 99f9ebf6a703d407f86dc1abbf5eecc9e707461b
      2)multi line ---> define: """something"""
